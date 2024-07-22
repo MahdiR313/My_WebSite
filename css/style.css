@@ -1,0 +1,179 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Courier Prime', monospace;
+    
+}
+
+.info {
+    
+    bottom: 30px;
+}
+
+.mahdi {
+    font-size: 5.625rem;
+    display: block;
+    font-family: "alex brush", cursive;
+    color: #053B50;
+}
+
+.job {
+    font-size: 1.5rem;
+}
+
+h1 {
+    font-size: 5.625rem;
+    display: block;
+    margin: 2.6rem auto 0 auto;
+    font-family: "alex brush", cursive;
+    color: #1a42fc; 
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+h2, h3 {
+    font-family: "", serif;
+    color: #af7ff9;
+}
+
+.top-container {
+    background-color: #EEEEEE;
+    position: relative;
+    padding-top: 160px;
+
+}
+
+.top-code {
+    position: absolute;
+    right: 400px;
+    top: 80px;
+    color: #053B50;
+
+}
+
+.bottom-code {
+    position: absolute;
+    bottom: 37.5rem;
+    left: 18.75rem;
+    top: 18.75rem;
+}
+
+.middle-container {
+    background-color: #281930;
+    color: #d3ccff;
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+}
+
+.programmer {
+        
+    top: 800px;
+    
+}
+.skills {
+    line-height: 2;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.contact-me {
+    line-height: 2;
+    
+}
+
+.teachingpic , .designpic , .codingpic {
+    width: 25%;
+}
+
+.teachingpic {
+    float: left;
+    margin-right: 20px;
+}
+
+.designpic {
+    float: right;
+    margin-left: 20px;
+}
+
+.codingpic {
+    float: left;
+    margin-right: 20px;
+}
+
+.profile {
+    margin: auto;
+    width: 50%;
+    line-height: 2;
+}
+
+hr {
+    padding: 20px;
+    border-bottom-style: dotted;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-width: 0.575rem;
+    width: 4%;
+    display: block;
+    overflow: visible;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 27;
+    -moz-border-radius: 27;
+    border-radius: 27px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 7px 18px 9px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+.contact-message {
+    margin: auto 40%;
+}
+
+.bottom-container {
+    padding-top: 1rem;
+    background-color: #EEEEEE;
+}
+
+.footer-link {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 25px;
+letter-spacing: -0.6px;
+word-spacing: 0.8px;
+color: #70B8FF;
+font-weight: 500;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+padding: 2rem;
+}
+
+.footer-link:hover {
+    color:#281930;
+}
